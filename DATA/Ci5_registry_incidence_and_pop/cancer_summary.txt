@@ -1,0 +1,29 @@
+CANCER	ICD	LABEL
+1	C00-96bC44      	All sites but non-melanoma skin                                                 
+2	C00-14          	Oral cavity and pharynx                                                         
+3	C15             	Oesophagus                                                                      
+4	C16             	Stomach                                                                         
+5	C18             	Colon                                                                           
+6	C19-21          	Rectum and anus                                                                 
+7	C22             	Liver                                                                           
+8	C23-24          	Gallbladder                                                                     
+9	C25             	Pancreas                                                                        
+10	C32             	Larynx                                                                          
+11	C33-34          	Lung                                                                            
+12	C40-41          	Bone                                                                            
+13	C43             	Melanoma of skin                                                                
+14	C50             	Breast                                                                          
+15	C53             	Cervix uteri                                                                    
+16	C54             	Corpus uteri                                                                    
+17	C56, C57.0-4    	Ovary and other uterine adnexa                                                  
+18	C61             	Prostate                                                                        
+19	C62             	Testis                                                                          
+20	C64-66          	Kidney etc.                                                                     
+21	C67             	Bladder                                                                         
+22	C69             	Eye                                                                             
+23	C70-72          	Brain and central nervous system                                                
+24	C73             	Thyroid                                                                         
+25	C82-85,C96      	Non-Hodgkin lymphoma                                                            
+26	C81             	Hodgkin lymphoma                                                                
+27	C88+C90         	Multiple myeloma                                                                
+28	C91-95          	Leukaemia                                                                       
